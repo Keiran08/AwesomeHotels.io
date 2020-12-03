@@ -16,9 +16,9 @@ The logo is basic to keep the design modern.  The image of three suitcases is th
 
 The design choices were influenced by market research that indicates that millenials are drawn to authentic and modern brands.  The website is clear and shows the companies values in the few images that it displays
 
-This website provided some of the [inspiration.] (https://tjarksandtjarks.com/en/branding/designing-for-millennials/)
+This website provided some of the inspiration: (https://tjarksandtjarks.com/en/branding/designing-for-millennials/)
     
 
 # Colours and fonts
 
-The colours chosen were from [this] (https://www.ppgpaints.com/color/color-collections/generational-palettes/millennials) website that suggested colours that millenials are drawn to.  The font used was 'Roboto'.  A font chosen to compliment the individuality of colors.  The website notes that millenials have a 'mistrust of brands' and are more influenced by their cohort.  This is why the image of the couple is included.  Millenials need to see other millenials using the service.  This is also why the links to various social media sites are included in the contact section of the page.
+The colours chosen were from this website: (https://www.ppgpaints.com/color/color-collections/generational-palettes/millennials) that suggested colours that millenials are drawn to.  The font used was 'Roboto'.  A font chosen to compliment the individuality of colors.  The website notes that millenials have a 'mistrust of brands' and are more influenced by their cohort.  This is why the image of the couple is included.  Millenials need to see other millenials using the service.  This is also why the links to various social media sites are included in the contact section of the page.
